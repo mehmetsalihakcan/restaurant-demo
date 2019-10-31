@@ -7,3 +7,5 @@ npm requiremodules
 
 #And run app
 npm run all
+
+https://github.com/mehmetsalihakcan/restaurant-demo/issues/1#issue-515740442
