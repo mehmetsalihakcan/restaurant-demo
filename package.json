@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "backend": "cd backend && nodemon index.js",
     "web": "cd web && npm start",
-    "all":"npm-run-all --parallel  backend web"
-    
+    "start": "npm i && cd backend && npm i && cd ../web && npm i",
+    "all": "npm-run-all --parallel backend web"
   },
   "author": "mehmet salih akcan",
   "license": "ISC",
