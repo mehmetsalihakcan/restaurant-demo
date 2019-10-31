@@ -1,5 +1,5 @@
 # restaurant-demo
-#go  restaurant-demo folder
+#go  restaurant-demo folder.
 cd  restaurant-demo 
 
 # firstly run requirements for downloading node_modules.
