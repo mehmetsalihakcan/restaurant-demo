@@ -1,12 +1,12 @@
 # restaurant-demo
 #go  restaurant-demo folder.
-###cd  restaurant-demo 
+## cd  restaurant-demo 
 
 ## firstly run requirements for downloading node_modules.
-###npm requiremodules
+## npm requiremodules
 
 #And run app
-npm run all
+## npm run all
 # Categories
 ![g1](https://user-images.githubusercontent.com/9059441/67985992-18bfbe00-fc3b-11e9-9e8a-7160af1ca7ac.png)
 
