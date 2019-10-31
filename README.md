@@ -15,12 +15,11 @@
 ![g2](https://user-images.githubusercontent.com/9059441/67986046-3a20aa00-fc3b-11e9-8258-bb868ffcfc0d.png)
 ### Product List
 
-![g4](https://user-images.githubusercontent.com/9059441/67986196-866bea00-fc3b-11e9-8368-ad6bde535223.png)
-### My cart
-
-
 ![g3](https://user-images.githubusercontent.com/9059441/67985293-97b3f700-fc39-11e9-87fe-c7b0c4bff17a.png)
 ### Add to cart
+
+![g4](https://user-images.githubusercontent.com/9059441/67986196-866bea00-fc3b-11e9-8368-ad6bde535223.png)
+### My cart
 
 ![g7](https://user-images.githubusercontent.com/9059441/67985363-c0d48780-fc39-11e9-87a8-955cb692deff.png)
 ### Delete the cart
