@@ -1,9 +1,9 @@
 # restaurant-demo
-### Go  restaurant-demo folder.
-> cd  restaurant-demo 
+### Go  restaurant-demo-master folder.
+> cd  restaurant-demo-master
 
 ### Firstly run requirements for downloading node_modules.
-> npm requiremodules
+> npm run requiremodules
 
 ### And run app
 > npm run all
